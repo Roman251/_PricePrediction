@@ -1,3 +1,3 @@
 # insurance
 
-terminal-command: streamlit run app.py
+terminal_command: `streamlit run app.py`
